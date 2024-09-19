@@ -3,7 +3,7 @@
 Esta é a solução para o [desafio pagina de receita no Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de codificação, construindo projetos realistas.
 
 ## Visão Geral 
-![foto projeto].(images/projeto.png).
+![Logo do projeto](images/projeto.png)
 
 ## Links 
 
