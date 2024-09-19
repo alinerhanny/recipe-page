@@ -9,6 +9,9 @@ Esta é a solução para o [desafio pagina de receita no Frontend Mentor](https:
 
 ## Meu processo
 
+- Link solução: [Recipe Page Solution](https://www.frontendmentor.io/solutions/soluo-recipe-page-mS1hcSqaFF)
+- Link Site: [Confira o site ao vivo](https://alinerhanny.github.io/recipe-page/)
+
 ### Construido com:
 - HTML5
 - CSS
