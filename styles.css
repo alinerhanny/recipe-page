@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: hsl(30, 54%, 90%);
+  font-size: 16px;
+  padding-bottom: 150px;
+}
+
+main {
+  width: 736px;
+  height: 100%;
+  margin-top: 100px;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.omelete {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+p {
+  font-family: "Outfit", sans-serif;
+  color: hsl(30, 10%, 34%);
+}
+
+.intro > h1 {
+  font-family: "Young Serif", sans-serif;
+  font-size: 34px;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: hsl(24, 5%, 18%);
+}
+
+.preparation-card {
+  width: 100%;
+  background-color: hsl(330, 100%, 98%);
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.preparation-card span {
+  font-family: "Outfit", sans-serif;
+  color: hsl(332, 51%, 32%);
+  font-size: 20px;
+  font-weight: 800;
+}
+
+li > em {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(30, 10%, 34%);
+}
+
+li {
+  font-family: "Outfit", sans-serif;
+  color: hsl(30, 10%, 34%);
+  margin: 20px;
+  padding-left: 20px;
+}
+
+li::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+section h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Young Serif", sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: hsl(14, 45%, 36%);
+}
+
+ol li::marker {
+  font-weight: bold;
+}
+
+.instructions {
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top: 1px solid hsl(30, 11%, 76%);
+}
+
+.nutrition {
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top: 1px solid hsl(30, 11%, 76%);
+}
+
+table {
+  width: 100%;
+  font-family: "Outfit", sans-serif;
+  padding-top: 15px;
+}
+
+td {
+  padding: 15px;
+  color: hsl(30, 10%, 34%);
+  border-bottom: 1px solid hsl(30, 11%, 76%);
+}
+
+table tr td:last-child {
+  color:hsl(14, 45%, 36%);
+  font-weight: bold;
+}
